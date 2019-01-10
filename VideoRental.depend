@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1546900771 source:c:\users\admin\desktop\project2\videorental\main.cpp
+	<iostream>
+	"Management.h"
+
+1547135166 c:\users\admin\desktop\project2\videorental\management.h
+	"Video_List.h"
+	"Member_List.h"
+	<cstdlib>
+	<iostream>
+	<string>
+	<limits>
+
+1547135639 c:\users\admin\desktop\project2\videorental\video_list.h
+	"Video.h"
+	<iomanip>
+
+1547135681 c:\users\admin\desktop\project2\videorental\video.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1547127991 c:\users\admin\desktop\project2\videorental\member_list.h
+	"Member.h"
+
+1547101586 c:\users\admin\desktop\project2\videorental\member.h
+	<iostream>
+	<string.h>
+	"Transaction.h"
+	<iomanip>
+
+1547077368 c:\users\admin\desktop\project2\videorental\transaction.h
+	<iostream>
+	"Video.h"
+
